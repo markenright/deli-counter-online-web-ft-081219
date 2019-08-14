@@ -52,7 +52,7 @@ now_serving(katz_deli)
 line(katz_deli)
 now_serving(katz_deli)
 now_serving(katz_deli)
-puts
+puts "should be empty now"
 line(katz_deli)
 
 
