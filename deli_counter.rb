@@ -10,7 +10,7 @@ def line(array)
     message = ""
     array.each_with_index do |name, index|
       
-      message += (name + "." + index) 
+      message += (name + "." + index.to_s) 
     end
     
     puts "The line is currently " + message
