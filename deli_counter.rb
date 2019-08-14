@@ -14,7 +14,9 @@ def line(array)
 end
 
 
-def take_a_number(array, )
-
+def take_a_number(array, name)
+  array.push(name)
+  puts "#{name} #{array.index(name)}" 
 
 #puts line(katz_deli)
+take_a_number(katz_deli, "bob")
