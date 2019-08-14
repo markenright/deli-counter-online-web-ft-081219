@@ -15,7 +15,7 @@ def line(array)
       
     end
     
-      print "The line is currently: " + temp_array.join(" ")
+      puts "The line is currently: " + temp_array.join(" ")
     
     
    
