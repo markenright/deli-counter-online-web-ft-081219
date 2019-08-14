@@ -5,7 +5,7 @@ katz_deli = []
 def line(array)
   
   if array == []
-    "The line is currently empty."
+    puts "The line is currently empty."
   else
     message = ""
     array.each_with_index do |name, index|
