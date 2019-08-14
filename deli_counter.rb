@@ -5,17 +5,17 @@ katz_deli = []
 def line(array)
   
   if array == []
-    puts "The line is currently empty."
+   puts "The line is currently empty." 
   else
   temp_array = []
-   print "The line is currently: "
+  
     array.each_with_index do |name, index|
       
       temp_array[index] = (index+1).to_s + ". " + name + " "
       
     end
     
-    print temp_array.join(" ")+ "\n"
+      print "The line is currently: " + temp_array.join(" ")
     
     
    
