@@ -52,8 +52,6 @@ now_serving(katz_deli)
 line(katz_deli)
 now_serving(katz_deli)
 now_serving(katz_deli)
-puts "should be empty now"
-puts "katz is #{katz_deli}"
 line(katz_deli)
 
 
