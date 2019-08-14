@@ -13,7 +13,7 @@ def line(array)
       message += ((index+1).to_s + ". " + name + "") 
     end
     
-    puts "The line is currently: " + message
+   
     
   end
   
