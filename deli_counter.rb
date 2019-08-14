@@ -14,6 +14,7 @@ def line(array)
       temp_array[index] = (index+1).to_s + ". " + name + " "
       
     end
+    
     puts temp_array
     puts
     
