@@ -8,7 +8,8 @@ def line(array)
     "The line is currently empty."
   else
     message = ""
-    array.each_with_+index
+    array.each_with_index do |name, index|
+      puts name, index
     
     puts "The line is currently " + message
     
