@@ -15,7 +15,7 @@ def line(array)
       
     end
     
-    print temp_array.join(" ")+ \n"
+    print temp_array.join(" ")+ "\n"
     
     
    
