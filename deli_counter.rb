@@ -7,10 +7,12 @@ def line(array)
   if array == []
     puts "The line is currently empty."
   else
+  temp_array = []
    print "The line is currently: "
     array.each_with_index do |name, index|
       
-      print (index+1).to_s + ". " + name + " "
+      temp_array[index] = (index+1).to_s + ". " + name + " "
+      puts temp_array
     end
     puts
     
