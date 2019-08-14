@@ -8,7 +8,7 @@ def line(array)
     "The line is currently empty."
   else
     message = ""
-    
+    array.each_with_+index
     
     puts "The line is currently " + message
     
