@@ -20,5 +20,15 @@ def take_a_number(array, name)
 end
 
 
+def now_serving(array)
+  
+  if array.length == 0
+    puts "There is nobody waiting to be served!"
+  else
+    puts array.
+    
+    end
+
+
 #puts line(katz_deli)
-take_a_number(katz_deli, "bob")
+#take_a_number(katz_deli, "bob")
