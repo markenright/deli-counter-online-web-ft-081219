@@ -1,6 +1,6 @@
 # Write your code here.
 
-katz_deli = ["a", "b"]
+katz_deli = []
 
 def line(array)
   
@@ -32,5 +32,5 @@ end
 
 #puts line(katz_deli)
 #take_a_number(katz_deli, "bob")
-now_serving(katz_deli)
-now_serving(katz_deli)
+#now_serving(katz_deli)
+#now_serving(katz_deli)
