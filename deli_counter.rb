@@ -12,8 +12,9 @@ def line(array)
     array.each_with_index do |name, index|
       
       temp_array[index] = (index+1).to_s + ". " + name + " "
-      puts temp_array
+      
     end
+    puts temp_array
     puts
     
    
