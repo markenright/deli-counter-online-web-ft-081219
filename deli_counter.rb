@@ -10,7 +10,7 @@ def line(array)
    print "The line is currently: "
     array.each_with_index do |name, index|
       
-      print index+1 "+ "name
+      print index+1 ". " + name
     end
     
    
