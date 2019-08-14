@@ -9,7 +9,8 @@ def line(array)
   else
     message = ""
     array.each_with_index do |name, index|
-      message += name "." index
+      
+      #message += name "." index
     end
     
     puts "The line is currently " + message
