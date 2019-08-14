@@ -14,7 +14,7 @@ def line(array)
 end
 
 
-
+def take_a_number(array, )
 
 
 #puts line(katz_deli)
