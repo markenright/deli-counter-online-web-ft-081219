@@ -1,3 +1,4 @@
 x = ["what", "should", "something", "else"]
 
-puts x.join(" ")
+print x.join(" ")
+print "does it make a space"
