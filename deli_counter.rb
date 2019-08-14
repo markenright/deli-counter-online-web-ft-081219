@@ -15,7 +15,7 @@ def line(array)
       
     end
     
-    puts temp_array.join(" ")
+    print temp_array.join(" ")
     puts
     
    
