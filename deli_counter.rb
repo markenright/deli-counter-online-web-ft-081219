@@ -1,6 +1,6 @@
 # Write your code here.
 
-katz_deli = ["omne", "ads"]
+katz_deli = []
 
 def line(array)
   
@@ -14,4 +14,7 @@ def line(array)
 end
 
 
-puts line(katz_deli)
+
+
+
+#puts line(katz_deli)
