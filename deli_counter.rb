@@ -9,7 +9,8 @@ def line(array)
   else
     message = ""
     
-    puts "The line is currently " + array.join(", ")
+    
+    puts "The line is currently " + message
     
   end
   
