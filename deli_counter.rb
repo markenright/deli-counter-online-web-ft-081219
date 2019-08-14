@@ -30,7 +30,3 @@ def now_serving(array)
 end
 
 
-#puts line(katz_deli)
-#take_a_number(katz_deli, "bob")
-#now_serving(katz_deli)
-#now_serving(katz_deli)
