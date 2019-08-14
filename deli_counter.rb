@@ -12,6 +12,7 @@ def line(array)
       
       print (index+1).to_s + ". " + name + " "
     end
+    puts
     
    
     
