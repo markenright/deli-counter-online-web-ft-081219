@@ -1,6 +1,6 @@
 # Write your code here.
 
-katz_deli = []
+katz_deli = ["a", "b"]
 
 def line(array)
   
