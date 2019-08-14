@@ -4,7 +4,7 @@ katz_deli = []
 
 def line(array)
   
-  if array.length == 0
+  if array == []
     "The line is currently empty."
   else
     message = ""
